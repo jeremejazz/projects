@@ -1,5 +1,6 @@
 ---
 title: "Privacy Policy for Cine Jeepney"
+excludeSearch: true
 date: 2026-04-18T13:25:47+08:00
 draft: false
 ---
