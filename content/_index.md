@@ -7,6 +7,6 @@ toc: false
 ## Explore
 
 {{< cards >}}
-  {{< card link="projects" title="Projects" icon="star" >}}
+  {{< card link="docs" title="Projects" icon="star" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
