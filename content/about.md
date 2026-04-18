@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-Information on personal projects.
+Directory and knowledge base of personal projects.
