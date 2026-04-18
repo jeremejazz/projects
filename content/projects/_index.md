@@ -1,6 +1,6 @@
 ---
-title: Documentation
-next: first-page
+title: Projects
+# next: first-page
 cascade:
     type: docs
 ---
