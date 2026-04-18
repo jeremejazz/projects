@@ -60,5 +60,6 @@ params:
     type: flexsearch
 
     flexsearch:
+      tokenize: forward
       # index page by: content | summary | heading | title
-      index: content
+      # index: content
