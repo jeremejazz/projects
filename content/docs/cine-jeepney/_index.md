@@ -4,8 +4,7 @@ date: 2026-04-18T13:25:47+08:00
 weight: 1
 toc: true
 next: privacy-policy
-params:
-  images:
+images:
     - "images/cinejeepney-mockup.png"
 draft: false
 ---
