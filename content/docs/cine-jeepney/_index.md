@@ -15,7 +15,7 @@ An app that fetches a list of current and upcoming movies in Philippine cinemas.
 ## Features
 - [x] Fetch Now Showing and Coming Soon Movies
 - [x] Fetch Movie Schedules; Add schedule to calendar.
-- [x] Get Info such as director, genre, main actors, trailers, and PG ratings. 
+- [x] Get Info such as director, genre, main actors, trailers, and PG ratings.
 - [ ] Filter and Sorting (TODO)
 - [ ] Location filtering in Movie Schedule
 - [ ] Link to Alaya All Access, SM Cinemas and other websites for booking tickets.
